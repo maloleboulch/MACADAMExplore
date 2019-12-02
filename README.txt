@@ -36,6 +36,8 @@ sqlite3 module for python3
 
 To open the sqlite database you can use SQLite browser (https://sqlitebrowser.org/dl/)
 
+############## Warning ###########
+if you use a new version of MACADAM, don't forget to delete the old one from the memory (/dev/shm/)
 
 ############## Arguments  ###########
 All input can be partial (except in the case of a taxonomy, when -strict is used)
