@@ -13,7 +13,8 @@ It can be queried  by organism name or using metabolic information.
 
 ############## Citations ###########
 If you use MACADAM database for your work, please cite:
-ARTICLE
+Malo Le Boulch, Patrice Déhais, Sylvie Combes, Géraldine Pascal, The MACADAM database: a MetAboliC pAthways DAtabase for Microbial taxonomic groups for mining potential metabolic capacities of archaeal and bacterial taxonomic groups, Database, Volume 2019, 2019, baz049
+https://doi.org/10.1093/database/baz049
 
 You can also cite:
 
